@@ -1,6 +1,7 @@
 <application>
   <component name="TipsStore">
     <option name="globalFirstStartUp" value="false" />
+    <entry projectPath="E:/project/BladeX_new" startUpFlag="FIRST" />
     <entry projectPath="E:/project/studio/hhxxttxs-server" startUpFlag="FIRST" />
   </component>
 </application>
