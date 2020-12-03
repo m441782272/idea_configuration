@@ -14,6 +14,10 @@
           <option name="url" value="http://git.yqzh.tech:180" />
           <option name="userName" value="maojianqiu" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://101.37.16.131:8085" />
+          <option name="userName" value="maojianqiu" />
+        </UrlAndUserName>
       </list>
     </option>
   </component>
