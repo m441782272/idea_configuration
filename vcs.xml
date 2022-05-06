@@ -4,8 +4,35 @@
       <list>
         <UrlAndUserName>
           <option name="url" value="http://gitee.com" />
-          <option name="userName" value="15926485083" />
+          <option name="userName" value="maojianqiu" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://47.98.141.198:3000" />
+          <option name="userName" value="maojianqiu" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://git.yqzh.tech:180" />
+          <option name="userName" value="maojianqiu" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://101.37.16.131:8085" />
+          <option name="userName" value="maojianqiu" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://192.168.3.10:180" />
+          <option name="userName" value="maojianqiu" />
+        </UrlAndUserName>
+      </list>
+    </option>
+  </component>
+  <component name="Vcs.Log.App.Settings">
+    <option name="SHOW_CHANGES_FROM_PARENTS" value="true" />
+    <option name="COLUMN_ORDER">
+      <list>
+        <option value="0" />
+        <option value="1" />
+        <option value="2" />
+        <option value="3" />
       </list>
     </option>
   </component>

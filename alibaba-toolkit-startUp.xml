@@ -1,7 +1,54 @@
 <application>
   <component name="TipsStore">
     <option name="globalFirstStartUp" value="false" />
+    <entry projectPath="E:/AdaptiveTableLayout-master" startUpFlag="FIRST" />
+    <entry projectPath="E:/project/BladeX" startUpFlag="FIRST" />
+    <entry projectPath="E:/project/BladeX-Boot" startUpFlag="FIRST" />
+    <entry projectPath="E:/project/BladeX-Tool" startUpFlag="FIRST" />
     <entry projectPath="E:/project/BladeX_new" startUpFlag="FIRST" />
+    <entry projectPath="E:/project/Caster" startUpFlag="FIRST" />
+    <entry projectPath="E:/project/Thief" startUpFlag="FIRST" />
+    <entry projectPath="E:/project/WePush" startUpFlag="FIRST" />
+    <entry projectPath="E:/project/blade-workflow" startUpFlag="FIRST" />
+    <entry projectPath="E:/project/blade-workflow-boot" startUpFlag="FIRST" />
+    <entry projectPath="E:/project/cqhzz" startUpFlag="FIRST" />
+    <entry projectPath="E:/project/generate" startUpFlag="FIRST" />
+    <entry projectPath="E:/project/gkux/Goku.WebService.Bus" startUpFlag="FIRST" />
+    <entry projectPath="E:/project/gkux/WebService" startUpFlag="FIRST" />
+    <entry projectPath="E:/project/gkux/axis" startUpFlag="FIRST" />
+    <entry projectPath="E:/project/gkux/axis2" startUpFlag="FIRST" />
+    <entry projectPath="E:/project/gkux/blade_sdgk_sales" startUpFlag="FIRST" />
+    <entry projectPath="E:/project/gkux/crawling" startUpFlag="FIRST" />
+    <entry projectPath="E:/project/gkux/demo-master" startUpFlag="FIRST" />
+    <entry projectPath="E:/project/gkux/kgux_server_biz_dev" startUpFlag="FIRST" />
+    <entry projectPath="E:/project/gkux/kgux_server_dev" startUpFlag="FIRST" />
+    <entry projectPath="E:/project/gkux/sdgk_sales" startUpFlag="FIRST" />
+    <entry projectPath="E:/project/gkux/sdgk_server_dev" startUpFlag="FIRST" />
+    <entry projectPath="E:/project/gkux/sdgk_service" startUpFlag="FIRST" />
+    <entry projectPath="E:/project/gkux/soap-webservice-demo" startUpFlag="FIRST" />
+    <entry projectPath="E:/project/gkux/springboot-ws-soap" startUpFlag="FIRST" />
+    <entry projectPath="E:/project/guerlab-sms" startUpFlag="FIRST" />
+    <entry projectPath="E:/project/hutool" startUpFlag="FIRST" />
+    <entry projectPath="E:/project/iw-tool" startUpFlag="FIRST" />
+    <entry projectPath="E:/project/learn-tech-collection" startUpFlag="FIRST" />
+    <entry projectPath="E:/project/learn-tech-collection/redissondemo" startUpFlag="FIRST" />
+    <entry projectPath="E:/project/mall" startUpFlag="FIRST" />
+    <entry projectPath="E:/project/mall-learning" startUpFlag="FIRST" />
+    <entry projectPath="E:/project/mall-master" startUpFlag="FIRST" />
+    <entry projectPath="E:/project/ocr" startUpFlag="FIRST" />
+    <entry projectPath="E:/project/order" startUpFlag="FIRST" />
+    <entry projectPath="E:/project/rocket-api" startUpFlag="FIRST" />
+    <entry projectPath="E:/project/rocket-api-demo" startUpFlag="FIRST" />
+    <entry projectPath="E:/project/rocketmq-handson-apply" startUpFlag="FIRST" />
+    <entry projectPath="E:/project/sms/guerlab-sms" startUpFlag="FIRST" />
+    <entry projectPath="E:/project/sms/sms_platform" startUpFlag="FIRST" />
+    <entry projectPath="E:/project/sms/sms_platform_demo" startUpFlag="FIRST" />
     <entry projectPath="E:/project/studio/hhxxttxs-server" startUpFlag="FIRST" />
+    <entry projectPath="E:/project/swagger2word" startUpFlag="FIRST" />
+    <entry projectPath="E:/project/token_demo" startUpFlag="FIRST" />
+    <entry projectPath="E:/project/uni-portal" startUpFlag="FIRST" />
+    <entry projectPath="E:/project/uni-ucenter" startUpFlag="FIRST" />
+    <entry projectPath="E:/project/ykt/ykt_server_biz_dev" startUpFlag="FIRST" />
+    <entry projectPath="E:/project/ykt/ykt_server_dev" startUpFlag="FIRST" />
   </component>
 </application>
